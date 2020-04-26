@@ -6,19 +6,19 @@ Setup and available commands instructions are documented [here](https://github.c
 
 What's inside:
 
-* Angular 9
+* [Angular 9](https://angular.io/)
 
-* e2e with Cypress
+* [e2e tests with Cypress](https://www.cypress.io/)
 
-* NGRX
+* [NGRX](https://ngrx.io/)
 
-* Lazy Moodule
+* [Lazy Moodule](https://angular.io/guide/lazy-loading-ngmodules)
 
-* Angular Universal (Server Side Rendering)
+* [Angular Universal (Server Side Rendering)](https://angular.io/guide/universal)
 
-* Angular Service Worker
+* [Angular Service Worker](https://angular.io/guide/service-worker-intro)
 
-* Bootstrap (CSS)
+* [Bootstrap (CSS)](https://getbootstrap.com/)
 
 ## Assignments
 
