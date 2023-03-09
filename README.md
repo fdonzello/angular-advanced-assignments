@@ -1,3 +1,6 @@
+This repo is now archived. Please refer to https://github.com/fdonzello/angular-advanced for the latest up-to-date showcase of Angular Advanced concepts.
+
+
 # Advanced Angular Assignments
 
 This project showcases some advanced angular concepts.
